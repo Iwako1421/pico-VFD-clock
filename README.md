@@ -25,7 +25,7 @@ simple VFD clock using raspberry pi pico
 
 ## 組み立て方
 1. 部品表を見ながら部品をはんだ付けします
-2. このgithubリポジトリをzipでダウンロードし、解凍してprogram/VFDclock.uf2を取り出します
+2. このgithubリポジトリ(https://github.com/Iwako1421/pico-VFD-clock)をzipでダウンロードし、解凍してprogram/VFDclock.uf2を取り出します
 3. raspberry pi picoのbootselボタンを押しながらmicroUSBケーブルでPCと接続します
 4. raspberry pi picoがストレージとして認識されるので、そこにVFDclock.uf2をドラッグ&ドロップします
 5. 時刻を合わせて完成
